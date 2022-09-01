@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DA2034")(type "KiCad")(uri "${KIPRJMOD}/DA2034.pretty")(options "")(descr ""))
+)

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "LT3751")(type "KiCad")(uri "${KIPRJMOD}/LT3751.kicad_sym")(options "")(descr ""))
+  (lib (name "DA2034")(type "KiCad")(uri "${KIPRJMOD}/DA2034.kicad_sym")(options "")(descr ""))
 )
